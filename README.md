@@ -4,6 +4,6 @@ The trained model for this project is available here : https://www.jioaicloud.co
 
 Please download the model and place it inside the "models" folder of the project directory before running the code.
 
-If you wish to train the model from scratch, the "training.ipynb" notebook is provided in the project.
+If you wish to train the model from scratch, the "model_training.ipynb" notebook is provided in the project.
 
 You can use it for training the model using the dataset, which is available at the following link : https://www.kaggle.com/datasets/aneeshdighe/corals-classification
